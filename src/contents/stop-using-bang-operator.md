@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-09-29T20:23:35Z
 title: Stop Using The "!" Bang Operator In JavaScript
 slug: "stop-using-bang-operator"
-featured: true
+featured: false
 draft: false
 tags:
   - javascript
