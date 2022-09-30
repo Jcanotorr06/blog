@@ -5,7 +5,7 @@ export const SITE = {
   author: "Joseph Cano",
   desc: "A blog were I will attempt to keep up with current trends and technology.",
   title: "Joseph Cano's Blog",
-  ogImage: "default-og.png",
+  ogImage: "og_image.png",
   lightAndDarkMode: true,
   postPerPage: 5,
 };
