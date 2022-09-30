@@ -1,13 +1,13 @@
 import type { SocialsObject } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://blog.josephcano.com/",
+  author: "Joseph Cano",
+  desc: "A blog were I will attempt to keep up with current trends and technology.",
+  title: "Joseph Cano's Blog",
   ogImage: "default-og.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 5,
 };
 
 export const LOGO_IMAGE = {
@@ -20,28 +20,28 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialsObject = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/Jcanotorr06",
     active: true,
   },
   {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/josc507",
     active: true,
   },
   {
     name: "Linkedin",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.linkedin.com/in/joseph-cano-144174174/",
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    active: false,
+    href: "mailto:josephct06@gmail.com",
+    active: true,
   },
   {
     name: "Twitter",
