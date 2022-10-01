@@ -53,7 +53,7 @@ If you don't want a term or phrase to appear in your search results, then just a
 For e.g. a search on => how to write components in React -class will return all the search results that don't have the term "class" in them. So, (if you know a bit of React) it'll give you only ways to write functional components in React.
 ![dash-search-results](https://www.freecodecamp.org/news/content/images/2022/08/img3.PNG)
 
-### 4. Search images of a particular size with `imagesize`:
+### 4. Search images of a particular size with `imagesize:`
 
 If you want to search images of a particular size, then use the tag `imagesize:` in your search query along with the width and height in pixels.
 
