@@ -16,8 +16,11 @@ description:
 
 Google had big plans for its cloud gaming service, but it never tipped the scales. Soon, Google will be shutting it down.
 
-![gogle-stadia-and-controller](https://media.wired.com/photos/5dcf400e6183ed0008252202/master/pass/Gear-Google-Stadia-P12_FE_R03.jpg)
-*Image by [Wired](https://www.wired.com/review/google-stadia/)*
+<div style="text-align:center;margin-bottom:2em;">
+<img src="https://media.wired.com/photos/5dcf400e6183ed0008252202/master/pass/Gear-Google-Stadia-P12_FE_R03.jpg" alt="stadia and controller" style="margin-bottom:0;"/>
+<small>Image by <a href="https://www.wired.com/review/google-stadia/">Wired</a></small>
+</div>
+<hr/>
 
 ## Table of Contents
 
@@ -43,8 +46,11 @@ But as many others think, cloud gaming still has too much friction. Can my inter
 
 It’s clear Stadia never mattered all that much to Google, either. Most big-budget video games take years to develop, but the company shuttered its own studios a little over a year after Stadia officially launched. If Google wasn’t willing to invest in its own platform, why should other developers?
 
-Developers that did support Stadia were as surprised as everyone else about Thursday’s news. Bungie, on its [Destiny 2 forums](https://www.bungie.net/en/Forums/Post/261833265?sort=0&page=0), said that it “just learned” about the shutdown and would send information to affected Stadia players “once we have a plan of action.” Mike Rose of No More Robots tweeted his frustration at Google’s lack of communication, [saying that](https://twitter.com/RaveofRavendale/status/1575561019807584257)
->hours later and I still have no email from Stadia, and no clarity on what’s happening with our games, deals, anything.
+Developers that did support Stadia were as surprised as everyone else about Thursday’s news. Bungie, on its [Destiny 2 forums](https://www.bungie.net/en/Forums/Post/261833265?sort=0&page=0), said that it “just learned” about the shutdown and would send information to affected Stadia players “once we have a plan of action.” Mike Rose of No More Robots tweeted his frustration at Google’s lack of communication.
+
+<div style="display:flex;justify-content:center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hours later and I still have no email from Stadia, and no clarity on what’s happening with our games, deals, anything<br><br>Really would have been nice if they’d told partners, or even got in contact with us by now?</p>&mdash; Mike Rose (@RaveofRavendale) <a href="https://twitter.com/RaveofRavendale/status/1575561019807584257?ref_src=twsrc%5Etfw">September 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 Even Stadia employees apparently had [little](https://www.reddit.com/r/Stadia/comments/xrcea4/comment/iqe3cdv/) [notice](https://twitter.com/sjvanterpool/status/1575523549296852992).
 

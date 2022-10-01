@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-09-29T12:05:30Z
 title: Use Google Like a Pro!
 slug: "use-google-like-a-pro"
-featured: true
+featured: false
 draft: false
 tags:
   - productivity
