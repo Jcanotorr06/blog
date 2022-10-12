@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-09-24T02:44:14Z
 title: I am a Mediocre Developer
 slug: "i-am-a-mediocre-developer"
-featured: true
+featured: false
 draft: false
 tags:
   - advice
