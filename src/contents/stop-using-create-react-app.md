@@ -81,6 +81,18 @@ pnpm create vite
 
 ### Next.js
 
+![nextjs logo](https://assets.vercel.com/image/upload/v1662090959/front/nextjs/twitter-card.png)
+
 Next.js is a [React framework built by Vercel](https://vercel.com/) (formerly Zeit) to make server-side rendering (SSR) easier for React applications regardless of where your data comes from.
 
 Next.js also supports static exporting, [incremental static regeneration](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration), image and font optimization, improved SEO and unlike CRA, it is actually production ready.
+
+To get started with Next.js, simply use:
+
+```bash
+yarn create next-app --typescript
+```
+
+```bash
+pnpm create next-app --typescript
+```
