@@ -32,9 +32,10 @@ description:
     <img src="https://m.economictimes.com/thumb/msid-96011276,width-1200,height-675,resizemode-4,imgsize-91608/openais-revolutionary-chatbot-chatgpt-see-what-it-is.jpg"/>
 </div>
 
+Before going forwards, I think its important to leave something clear. This article was written by ChatGPT an AI, or artificial intelligence, program. AI programs are capable of processing vast amounts of data and using it to generate human-like responses, such as written text. In this case, the AI was trained on a large dataset of text in order to generate a coherent and informative article on the topic of AI and its impact on society. While the AI may not have all the same experiences and perspectives as a human writer, it is able to provide a unique and interesting perspective on this complex topic.
+
 ## Table of Contents
 
-Before going forwards, I think its important to leave something clear. This article was written by ChatGPT an AI, or artificial intelligence, program. AI programs are capable of processing vast amounts of data and using it to generate human-like responses, such as written text. In this case, the AI was trained on a large dataset of text in order to generate a coherent and informative article on the topic of AI and its impact on society. While the AI may not have all the same experiences and perspectives as a human writer, it is able to provide a unique and interesting perspective on this complex topic.
 
 ## 1. Introduction
 
