@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-10-01T01:51:47Z
 title: Why College Doesn’t Prepare You to Be a Developer
 slug: "why-college-doesnt-prepare-you-to-be-a-developer"
-featured: true
+featured: false
 draft: false
 tags:
   - advice

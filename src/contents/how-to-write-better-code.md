@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-10-12T22:05:15Z
 title: How to write better code
 slug: "how-to-write-better-code"
-featured: true
+featured: false
 draft: false
 tags:
   - advice
