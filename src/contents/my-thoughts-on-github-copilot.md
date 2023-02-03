@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-12-01T02:44:14Z
 title: My Thoughts on Github Copilot
 slug: "my-thoughts-on-github-copilot"
-featured: true
+featured: false
 draft: false
 tags:
   - advice

@@ -3,7 +3,7 @@ author: Joseph Cano
 datetime: 2022-09-22T12:19:19Z
 title: 5 Tips for Crushing Developer Interviews
 slug: "5-tips-for-crushing-developer-interviews"
-featured: true
+featured: false
 draft: false
 tags:
   - interviews
